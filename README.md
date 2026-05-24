@@ -39,11 +39,6 @@ Cross-validated performance across all models (the headline numbers; a single 80
 - **Evaluation:** confusion matrices, accuracy, precision, recall, F1, and ROC-AUC, validated with k-fold cross-validation
 - **Interpretation:** feature-importance analysis for Random Forest, Decision Tree, XGBoost, and Logistic Regression
 
-## Repository Structure
-
-    Heart_Project_Code.ipynb   # full pipeline: EDA → cleaning → modeling → evaluation
-    requirements.txt
-    README.md
 
 
 > **Data:** the combined heart dataset (`heart_statlog_cleveland_hungary_final.csv`) is publicly available on Kaggle.
